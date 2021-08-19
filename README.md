@@ -38,9 +38,4 @@ face_recognise.py - main script for face recognition
 
 Testing
 
-![Screenshot 2021-08-19 at 8 07 04 PM](https://user-images.githubusercontent.com/57566639/130107718-5d7f8da7-5405-4d12-9dea-9f990860f7f6.png)
-
-
-
-
-
+![Screenshot 2021-08-19 at 8 10 37 PM](https://user-images.githubusercontent.com/57566639/130108507-e52ba6cf-1b54-4430-b33d-b528036c80ff.png)
